@@ -77,7 +77,7 @@ Create four different help topics
 Admin Panel -> Manage -> Help Topics
 
 
-
+Yes yes yes
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
