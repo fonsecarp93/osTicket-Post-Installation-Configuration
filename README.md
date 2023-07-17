@@ -36,11 +36,52 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+
+<h3>Configure Roles</h3>
+Create a "Supreme Admin" Role, in the Admin Panel
+Admin Panel -> Agents -> Roles
 <p>
+
+<h3>Configure Departments</h3>
+Create a "System Administrators" Department
+Admin Panel -> Agents -> Departments
+
+<h3>Configure Teams</h3>
+Create "Level I Support" and "Level II" Support Teams
+Admin Panel -> Agents -> Teams
+
+<h3>Allow anyone to create Tickets</h3>
+Admin Panel -> Settings -> User Settings
+Require registration and login to create tickets
+
+<h3>Configure Agents (Workers)</h3>
+Create two agents (Jane and John)
+Admin Panel -> Agents -> Add New
+
+<h3>Configure Users (Customers)</h3>
+Create two Users (Karen and Ken)
+Agent Panel -> Users -> Add New
+
+<h3>Configure SLA</h3>
+Create three different SLA's with different priority settings
+    Sev-A (1 hour, 24/7)
+    Sev-B (4 hours, 24/7)
+    Sev-C (8 hours, business hours)
+
+<h3>Configure Help Topics</h3>
+Create four different help topics
+    Business Critical Outage
+    Personal Computer Issues
+    Equipment Request
+    Password Reset
+Admin Panel -> Manage -> Help Topics
+
+
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
@@ -48,7 +89,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
@@ -56,6 +97,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
